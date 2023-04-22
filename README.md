@@ -1,2 +1,2 @@
-# my_blog_app
-My personal website
+# myblog_ssg
+My personal website built from Hugo (the Static Site Generator Engine)
