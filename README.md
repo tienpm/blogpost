@@ -1,2 +1,3 @@
-# myblog_ssg
-My personal website built from Hugo (the Static Site Generator Engine)
+# My Blog Post
+
+My personal website built from [Hugo](https://gohugo.io/) (the Static Site Generator Engine) and [LoveIT](https://hugoloveit.com/) theme
