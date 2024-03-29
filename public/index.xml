@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tien&#39;s blog posts</title>
+        <title>Tien&#39;s blog post</title>
         <link>https://tienpm.github.io/blogpost/</link>
-        <description>Tien&#39;s Blogs</description>
+        <description>A blog post about Computer Science specialize</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>tienpmuit@gmail.com (Tien M. Pham)</managingEditor>
-            <webMaster>tienpmuit@gmail.com (Tien M. Pham)</webMaster>
+            <webMaster>tienpmuit@gmail.com (Tien M. Pham)</webMaster><lastBuildDate>Tue, 09 Jan 2024 09:17:42 &#43;0900</lastBuildDate>
             <atom:link href="https://tienpm.github.io/blogpost/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>

@@ -4,7 +4,7 @@ baseURL = "https://tienpm.github.io/blogpost/"
 theme = "LoveIt"
 
 # website title
-title = "Tien's blog posts"
+title = "Tien's blog post"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -85,11 +85,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "Tien's Blogs"
+  title = "Tien's Blog Post"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Tien's Blogs"
+  description = "A blog post about Computer Science specialize"
   # website images for Open Graph and Twitter Cards
-  images = ["/images/avatar.jpg"]
+  images = ["images/bamboo-tree-logo-vector.jpg"]
 
   # Header config
   [params.header]
@@ -100,7 +100,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = ""
+      logo = "images/bamboo-tree-logo-vector.jpg"
       # title name
       name = "Tien's Blog Post"
       # you can add extra information before the name (HTML format is supported), such as icons
@@ -193,11 +193,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.jpg"
+      avatarURL = "images/avatar.jpg"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Hi! My name is Tien M. Pham<br />I graduated Bachelor of Science in Computer Science at UIT - VNU HCM<br />This is my Blog Post about some Computer Science specializations that I interested"
+      subtitle = "Welcome to my blog! My name is Tien M. Pham<br/>I graduated Bachelor of Science in Computer Science at UIT - VNU HCM<br/>This is my Blog Post about my learning notes on Computer Science specializations<br/>If you find mistakes or discussion, please contact me by email. Thank you!"
       # whether to use typeit animation for subtitlae
       typeit = false
       # whether to show social links
@@ -363,21 +363,21 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = true
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Blogger = false
       Baidu = false
       Odnoklassniki = false
       Evernote = false
-      Skype = true
+      Skype = false
       Trello = false
       Mix = false
     #  Comment config
